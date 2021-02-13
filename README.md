@@ -1,0 +1,2 @@
+# EventManager
+Event management platform
