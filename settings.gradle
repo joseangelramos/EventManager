@@ -18,5 +18,7 @@
 rootProject.name = 'EventManager'
 String jdkVersion = "${jdk}"
 include 'eventmanager-server'
+include 'eventmanager-sdk-java'
 include 'eventmanager-common'
+
 

@@ -217,6 +217,7 @@ subprojects {
                 exclude '**/*log4j2.xml*'
                 exclude '**/spring-boot-devtools*.jar'
                 exclude '**/mumble-sdk-test*.jar'
+                exclude '**/defibus*.jar'
                 exclude '*log4j*.jar'
                 exclude 'commons-collections-3.2.2.jar'
             }
